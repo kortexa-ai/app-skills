@@ -47,4 +47,4 @@ Feel free to open an issue for bugs, feature requests, or questions.
 
 ---
 
-© 2025 kortexa.ai
+© 2026 kortexa.ai
