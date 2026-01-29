@@ -64,12 +64,12 @@ Create two sibling projects:
 ```json
 {
   "dependencies": {
-    "expo": "~52.0.0",
-    "react": "^18.3.1",
-    "react-native": "~0.76.0",
-    "nativewind": "^4.1.0",
-    "react-native-reanimated": "~3.16.0",
-    "@react-native-async-storage/async-storage": "^2.1.0"
+    "expo": "^54.0.0",
+    "react": "^19.2.0",
+    "react-native": "^0.81.0",
+    "nativewind": "^4.2.0",
+    "react-native-reanimated": "^4.2.0",
+    "@react-native-async-storage/async-storage": "^2.2.0"
   },
   "devDependencies": {
     "tailwindcss": "^3.4.0"
